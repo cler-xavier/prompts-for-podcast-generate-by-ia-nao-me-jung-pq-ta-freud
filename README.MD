@@ -34,7 +34,7 @@ você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecn
 Prompt PicLumen 
 Uma mesa num café em que Freud e Jung estão tomando café e conversando em Vienna em estilo desenho animado da Disney
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+
 
 
 ⌨️ com 💜 por [Cler Xavier ](@cler_xavier)
